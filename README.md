@@ -1,4 +1,4 @@
-# FastAPI Documentation RAG
+# FastAPI Documentation RAG-based Gemini Model
 
 This project demonstrates a Retrieval-Augmented Generation (RAG) system
 built using LangChain and FastAPI's official documentation.
